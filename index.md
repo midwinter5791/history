@@ -8,7 +8,7 @@ I've been thinking about writing this for some time, as I feel it has valuable h
 
 Details including locations, institutions, companies, individuals have been omitted or changed, mostly so that I can be honest with what happened, but also because as proud as I am of some of this history, it probably wouldn't look that good for me or my current employer should someone come by and wave a printed copy of this around. Maybe I'm overthinking that, but it's what I've chosen.
 
-If you come across this, and you think you know who I am, I won't confirm it. You're welcome to ask. And if I do confirm it then that is definitely a sign that you have the wrong person. I have a terrible poker face, so save both of us the awkwardness, and sit back and enjoy the story, hopefully as much as I have enjoyed writing it.
+If you come across this, and you think you know who I am, I won't confirm it. You're welcome to ask. And if I do confirm it then that is definitely a sign that you have the wrong person. I have a terrible poker face, so save us both of us the awkwardness, and sit back and enjoy the story, hopefully as much as I have enjoyed writing it.
 
 Also, I'm happy to take comments, feedback, requests for more information etc. Just [open an issue against this repository](https://github.com/midwinter5791/history/issues) and I'll do my best to respond with an appropriate update. That seems like the GitHub friendly way to do this.
 

@@ -208,7 +208,7 @@ I spent three years in tertiary study, and only achieved one actual year of qual
 
 It's really clear to me that all of that activity happened in the relatively safe confines of my tertiary institute. If I had been conducting the same kind of things on the public Internet or on commercial premises I surely would have had a much bigger fall, and so to that end I'm very thankful for the opportunity to explore and make some waves without it adversely affecting my future.
 
-Some of these stories are know of by staff who still work at the tertiary institution. Maybe they will read this and be certain of who I am. You're welcome to think that you do. I refer you back to the introduction. If you have learned something from reading this then that makes this time and effort I spent putting this together well worthwhile.
+Some of these stories are known of by staff who still work at the tertiary institution. Maybe they will read this and be certain of who I am. You're welcome to think that you do. I refer you back to the introduction. If you have learned something from reading this then that makes this time and effort I spent putting this together well worthwhile.
 
 As mentioned in the introduction, I'm happy to take comments, feedback, requests for more information etc. Just [open an issue against this repository](https://github.com/midwinter5791/history/issues) and I'll come back to you.
 
